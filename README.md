@@ -1,5 +1,5 @@
 # Create-Your-Own-Private-Blockchain
-In this project, we are trying to create a test application that will allow to register stars and making sure that the application knows who owned each star
+In this project, we are trying to create a test application that will allow to register stars as well as ensuring that the application knows who owned each star
 
 ## Libraries
     - "bitcoinjs-lib": "^4.0.3",
