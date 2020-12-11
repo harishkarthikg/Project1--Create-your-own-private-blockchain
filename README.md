@@ -49,7 +49,7 @@ In this project, we are trying to create a test application that will allow to r
 ## Conclusion: 
 In this project, we learned how to implement an own private Blockchain. Also gained hands on experience on using Bitcoincore, Electrum wallet, POSTMAN
 
-## Credits: 
+## Resources: 
 - Udacity knowledge board
 - [Bitcoin Forum](https://bitcoin.org/en/community)
 - [Github Community](github.com)
