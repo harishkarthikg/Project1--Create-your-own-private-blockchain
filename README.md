@@ -30,16 +30,19 @@ In this project, we are trying to create a test application that will allow to r
      - Following output will be displayed
           - 'Server Listening for port: 8000'
 
-2. Using POSTMAN, request genesis block using GET- http://localhost:8000/block/0 
+2. Using POSTMAN, request genesis block using 
+    -  GET- http://localhost:8000/block/0 (see images folder)
 
-3. Using POSTMAN, make request of ownership sending the wallet address- 
+3. Using POSTMAN, make request of ownership sending the wallet address- (see images folder)
     - POST- http://localhost:8000/requestValidation
 
-4. Sign the message in Electrum wallet with the address & message
+4. Sign the message in Electrum wallet with the address & message- (see images folder)
 
-5. Using POSTMAN, submitstar - POST- localhost:8000/submitstar
+5. Using POSTMAN, submitstar- (see images folder)
+     - POST- http://localhost:8000/submitstar
 
-6. Using POSTMAN request star- POST - localhost:8000/blocks/15zo6J8P1i6Tbtw8aEKmWQSLS11BCcvgL9
+6. Using POSTMAN request star- (see images folder)
+     - POST - http://localhost:8000/blocks/15zo6J8P1i6Tbtw8aEKmWQSLS11BCcvgL9
 
 
 
